@@ -1,0 +1,53 @@
+body {
+
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.converter-body{
+
+	width: 400px;
+	height: 400px;
+	background: #675AFE;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+
+.converter-title {
+
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+input {
+
+	margin-left: 25px;
+	margin-bottom: 20px;
+
+}
+
+
+#result {
+
+	margin-left: 5px;
+}
+
+#inputType, #resultType {
+
+	width: 25%;
+	margin-left: 25px;
+	color: #675AFE;
+}
+
+#resultType {
+
+	margin-left: 84px;
+
+}
